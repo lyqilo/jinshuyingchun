@@ -1,0 +1,55 @@
+
+bj_dh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong1
+  rotate: false
+  xy: 195, 107
+  size: 28, 50
+  orig: 30, 51
+  offset: 1, 1
+  index: -1
+denglong2
+  rotate: true
+  xy: 298, 129
+  size: 36, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+denglong3
+  rotate: true
+  xy: 230, 129
+  size: 36, 66
+  orig: 41, 67
+  offset: 2, 0
+  index: -1
+denglong4
+  rotate: false
+  xy: 230, 167
+  size: 68, 101
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+gw 1
+  rotate: false
+  xy: 230, 270
+  size: 201, 201
+  orig: 243, 243
+  offset: 21, 21
+  index: -1
+hua
+  rotate: false
+  xy: 2, 159
+  size: 226, 312
+  orig: 226, 312
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 2
+  size: 191, 155
+  orig: 202, 184
+  offset: 7, 29
+  index: -1

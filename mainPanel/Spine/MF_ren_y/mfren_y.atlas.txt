@@ -1,0 +1,62 @@
+
+mfren_y.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juesews_0009_10
+  rotate: true
+  xy: 193, 340
+  size: 68, 149
+  orig: 68, 149
+  offset: 0, 0
+  index: -1
+juesews_0010_11
+  rotate: true
+  xy: 193, 410
+  size: 86, 174
+  orig: 86, 174
+  offset: 0, 0
+  index: -1
+juesews_0011_12
+  rotate: true
+  xy: 344, 346
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+juesews_0012_13
+  rotate: false
+  xy: 367, 361
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+juesews_0013_14
+  rotate: false
+  xy: 431, 361
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+juesews_0014_15
+  rotate: false
+  xy: 367, 340
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+juesews_0015_16
+  rotate: true
+  xy: 369, 384
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+juesews_0016_17
+  rotate: false
+  xy: 2, 310
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1

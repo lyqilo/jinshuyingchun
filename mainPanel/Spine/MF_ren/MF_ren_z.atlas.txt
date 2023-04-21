@@ -1,0 +1,69 @@
+
+MF_ren_z.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juesews_0000_01
+  rotate: true
+  xy: 152, 97
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+juesews_0001_02
+  rotate: false
+  xy: 152, 166
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+juesews_0002_03
+  rotate: false
+  xy: 121, 31
+  size: 69, 31
+  orig: 71, 33
+  offset: 1, 1
+  index: -1
+juesews_0003_04
+  rotate: true
+  xy: 121, 64
+  size: 69, 29
+  orig: 71, 30
+  offset: 1, 0
+  index: -1
+juesews_0004_05
+  rotate: false
+  xy: 152, 67
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+juesews_0005_06
+  rotate: true
+  xy: 192, 19
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+juesews_0006_07
+  rotate: true
+  xy: 219, 22
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+juesews_0007_08
+  rotate: true
+  xy: 2, 2
+  size: 131, 117
+  orig: 135, 117
+  offset: 0, 0
+  index: -1
+juesews_0008_09
+  rotate: false
+  xy: 2, 135
+  size: 148, 117
+  orig: 148, 117
+  offset: 0, 0
+  index: -1

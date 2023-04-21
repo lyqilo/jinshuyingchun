@@ -1,0 +1,76 @@
+
+K_g_chang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SceneJpg_03
+  rotate: false
+  xy: 2, 986
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_04
+  rotate: true
+  xy: 2, 727
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_08
+  rotate: true
+  xy: 261, 1193
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_09
+  rotate: false
+  xy: 468, 727
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_11
+  rotate: true
+  xy: 2, 468
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_15
+  rotate: true
+  xy: 468, 468
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_19
+  rotate: true
+  xy: 727, 1193
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_21
+  rotate: true
+  xy: 727, 934
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_24
+  rotate: false
+  xy: 934, 468
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1
+SceneJpg_25
+  rotate: false
+  xy: 1193, 986
+  size: 257, 464
+  orig: 257, 464
+  offset: 0, 0
+  index: -1

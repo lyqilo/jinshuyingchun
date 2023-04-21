@@ -1,0 +1,62 @@
+
+houzi_bj_dh.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juesebt.psb_0006_07
+  rotate: true
+  xy: 79, 34
+  size: 54, 31
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+juesebt.psb_0007_08
+  rotate: true
+  xy: 79, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+juesebt.psb_0008_09
+  rotate: true
+  xy: 87, 210
+  size: 43, 25
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+juesebt.psb_0009_10
+  rotate: false
+  xy: 87, 163
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+juesebt.psb_0010_11
+  rotate: false
+  xy: 2, 6
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+juesebt.psb_0011_12
+  rotate: false
+  xy: 2, 90
+  size: 83, 163
+  orig: 83, 163
+  offset: 0, 0
+  index: -1
+juesebt.psb_0011_13
+  rotate: false
+  xy: 87, 132
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+juesebt.psb_0011_15
+  rotate: false
+  xy: 87, 104
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+JSYC_Win_Dh.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big
+  rotate: false
+  xy: 2, 85
+  size: 428, 199
+  orig: 430, 202
+  offset: 2, 3
+  index: -1
+big_win_ban
+  rotate: false
+  xy: 836, 778
+  size: 558, 558
+  orig: 558, 558
+  offset: 0, 0
+  index: -1
+fuzi_1
+  rotate: false
+  xy: 755, 306
+  size: 542, 470
+  orig: 571, 474
+  offset: 17, 2
+  index: -1
+fuzi_2
+  rotate: false
+  xy: 1396, 736
+  size: 557, 470
+  orig: 571, 474
+  offset: 9, 0
+  index: -1
+fuzi_3
+  rotate: false
+  xy: 2, 286
+  size: 544, 470
+  orig: 571, 474
+  offset: 13, 2
+  index: -1
+fuzi_4
+  rotate: false
+  xy: 2, 758
+  size: 548, 470
+  orig: 571, 474
+  offset: 12, 2
+  index: -1
+g1
+  rotate: false
+  xy: 2, 1230
+  size: 832, 726
+  orig: 887, 750
+  offset: 18, 1
+  index: -1
+g2
+  rotate: true
+  xy: 1456, 1208
+  size: 748, 500
+  orig: 805, 569
+  offset: 29, 35
+  index: -1
+glow_00114
+  rotate: false
+  xy: 752, 48
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mage_win_ban
+  rotate: false
+  xy: 836, 1338
+  size: 618, 618
+  orig: 618, 618
+  offset: 0, 0
+  index: -1
+mega
+  rotate: true
+  xy: 552, 481
+  size: 747, 201
+  orig: 750, 202
+  offset: 3, 1
+  index: -1
+win
+  rotate: true
+  xy: 548, 20
+  size: 459, 202
+  orig: 460, 204
+  offset: 1, 2
+  index: -1
+win_ban
+  rotate: false
+  xy: 1299, 240
+  size: 494, 494
+  orig: 494, 494
+  offset: 0, 0
+  index: -1

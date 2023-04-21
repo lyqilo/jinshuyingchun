@@ -1,0 +1,97 @@
+
+k_g.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jpg_03
+  rotate: false
+  xy: 2, 746
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_05
+  rotate: false
+  xy: 2, 498
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_08
+  rotate: false
+  xy: 794, 833
+  size: 193, 159
+  orig: 193, 159
+  offset: 0, 0
+  index: -1
+Jpg_13
+  rotate: false
+  xy: 266, 746
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_14
+  rotate: false
+  xy: 2, 250
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_16
+  rotate: false
+  xy: 266, 498
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_18
+  rotate: false
+  xy: 530, 746
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_23
+  rotate: false
+  xy: 2, 2
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_25
+  rotate: false
+  xy: 266, 250
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_29
+  rotate: false
+  xy: 530, 498
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_30
+  rotate: false
+  xy: 266, 2
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_33
+  rotate: false
+  xy: 530, 250
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1
+Jpg_35
+  rotate: false
+  xy: 530, 2
+  size: 262, 246
+  orig: 262, 246
+  offset: 0, 0
+  index: -1

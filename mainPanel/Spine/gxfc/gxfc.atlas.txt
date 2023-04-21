@@ -1,0 +1,426 @@
+
+gxfc.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FreeEnter0_01
+  rotate: false
+  xy: 1940, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_02
+  rotate: false
+  xy: 2586, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_03
+  rotate: false
+  xy: 3232, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_04
+  rotate: false
+  xy: 2, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_05
+  rotate: false
+  xy: 648, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_06
+  rotate: false
+  xy: 1294, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_07
+  rotate: false
+  xy: 1940, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_10
+  rotate: false
+  xy: 2, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_11
+  rotate: false
+  xy: 648, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_12
+  rotate: false
+  xy: 1294, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_13
+  rotate: false
+  xy: 1940, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_14
+  rotate: false
+  xy: 2586, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_15
+  rotate: false
+  xy: 3232, 218
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_8
+  rotate: false
+  xy: 2586, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter0_9
+  rotate: false
+  xy: 3232, 584
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_01
+  rotate: false
+  xy: 2, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_02
+  rotate: false
+  xy: 648, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_03
+  rotate: false
+  xy: 1294, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_04
+  rotate: false
+  xy: 1940, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_05
+  rotate: false
+  xy: 2586, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_06
+  rotate: false
+  xy: 3232, 3512
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_07
+  rotate: false
+  xy: 2, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_08
+  rotate: false
+  xy: 648, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_09
+  rotate: false
+  xy: 1294, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_10
+  rotate: false
+  xy: 1940, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_11
+  rotate: false
+  xy: 2586, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_12
+  rotate: false
+  xy: 3232, 3146
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_13
+  rotate: false
+  xy: 2, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_14
+  rotate: false
+  xy: 648, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter1_15
+  rotate: false
+  xy: 1294, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_01
+  rotate: false
+  xy: 1940, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_02
+  rotate: false
+  xy: 2586, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_03
+  rotate: false
+  xy: 3232, 2780
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_04
+  rotate: false
+  xy: 2, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_05
+  rotate: false
+  xy: 648, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_06
+  rotate: false
+  xy: 1294, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_07
+  rotate: false
+  xy: 1940, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_08
+  rotate: false
+  xy: 2586, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_09
+  rotate: false
+  xy: 3232, 2414
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_10
+  rotate: false
+  xy: 2, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_11
+  rotate: false
+  xy: 648, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_12
+  rotate: false
+  xy: 1294, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_13
+  rotate: false
+  xy: 1940, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_14
+  rotate: false
+  xy: 2586, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter2_15
+  rotate: false
+  xy: 3232, 2048
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_01
+  rotate: false
+  xy: 2, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_02
+  rotate: false
+  xy: 648, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_03
+  rotate: false
+  xy: 1294, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_04
+  rotate: false
+  xy: 1940, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_05
+  rotate: false
+  xy: 2586, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_06
+  rotate: false
+  xy: 3232, 1682
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_07
+  rotate: false
+  xy: 2, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_08
+  rotate: false
+  xy: 648, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_09
+  rotate: false
+  xy: 1294, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_10
+  rotate: false
+  xy: 1940, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_11
+  rotate: false
+  xy: 2586, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_12
+  rotate: false
+  xy: 3232, 1316
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_13
+  rotate: false
+  xy: 2, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_14
+  rotate: false
+  xy: 648, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1
+FreeEnter3_14-15
+  rotate: false
+  xy: 1294, 950
+  size: 644, 364
+  orig: 644, 364
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+nvsan_dh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juesebt.psb_0000_01
+  rotate: false
+  xy: 299, 268
+  size: 119, 219
+  orig: 119, 219
+  offset: 0, 0
+  index: -1
+juesebt.psb_0001_02
+  rotate: false
+  xy: 420, 420
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+juesebt.psb_0002_03
+  rotate: false
+  xy: 2, 280
+  size: 295, 207
+  orig: 295, 207
+  offset: 0, 0
+  index: -1
